@@ -1,4 +1,4 @@
-# Netflix Clone Application
+# Netflix Clone Application Using Bloc 
 
 ![Logo](https://www.freepnglogos.com/uploads/netflix-logo-0.png)
 
