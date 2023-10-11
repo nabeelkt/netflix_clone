@@ -31,22 +31,22 @@ This is a Netflix Clone application built using Flutter and Bloc state managemen
 
 ## Screenshots
 
-![Home Screen](screenshots/home_screen.png)
+![Home Screen](assets/screenshots/home_screen.png)
 *Home screen showcasing recommended movies and TV shows.*
 
-![New & Hot Screen](screenshots/new_and_hot_screen.png)
+![New & Hot Screen](assets/screenshots/new_and_hot_screen.png)
 *New & Hot screen displaying different upcoming content.*
 
-![Fast Laugh Screen](screenshots/fast_laugh_screen.png)
+![Fast Laugh Screen](assets/screenshots/fast_laugh_screen.png)
 *Fast Laugh screen with video scenes about the selected movie.*
 
-![Top Search Screen](screenshots/top_search_screen.png)
+![Top Search Screen](assets/screenshots/top_search_screen.png)
 *Search details screen with information about the top searched movie and tv shows in list mode.*
 
-![Search Screen](screenshots/search_screen.png)
+![Search Screen](assets/screenshots/search_screen.png)
 *Search details screen with information about the specific searched movie and tv shows in grid mode.*
 
-![Download Screen](screenshots/download_screen.png)
+![Download Screen](assets/screenshots/download_screen.png)
 *Download screen with information about the downloaded movies and tv shows.*
 
 ## Acknowledgements

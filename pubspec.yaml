@@ -51,3 +51,9 @@ flutter:
     - assets/images/image3.png
     - assets/images/image4.png
     - assets/images/Netflix-Brand-Logo.png
+    - assets/screenshots/home_screen.png
+    - assets/screenshots/new_and_hot_screen.png
+    - assets/screenshots/fast_laugh_screen.png
+    - assets/screenshots/top_search_screen.png
+    - assets/screenshots/search_screen.png
+    - assets/screenshots/download_screen.png
